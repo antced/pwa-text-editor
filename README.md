@@ -4,9 +4,9 @@
 
 ## Description
 
-https://drive.google.com/file/d/14qlbC07o7gP0VIHiiywtIBQV3gveiO4B/view?usp=sharing
+https://powerful-crag-48867.herokuapp.com/
 
-This is an API for a social network that allows for the creation, updation, and deletion of users, thoughts, reactions, and adding friends.
+This is an in browser and offline app for writing JavaScript code with syntax highlighting.
 
 ## Installation
 
@@ -15,7 +15,7 @@ Then run ```npm run start``` and visit the localhost link that appears in your t
 
 ## Usage
 
-Run Insomnia GET, POST, PUT, and DELETE requests at each API route.
+Visit the link above and type your text on the page.
 
 ## Credits
 
